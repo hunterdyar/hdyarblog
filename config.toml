@@ -1,0 +1,28 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Hunter Dyar'
+theme = 'hugo-bearblog'
+
+#Didn't work for whatever reason, so i commented out in the theme
+hideMadeWithLine = true
+
+#menu
+[menu]
+[[menu.main]]
+identifier = 'photography'
+name = 'Photography'
+url = '/photography/'
+weight = -200
+[[menu.main]]
+identifier = 'games'
+name = 'Games'
+url = '/games/'
+weight = -110
+
+
+# Basic metadata configuration for your blog.
+author = "Hunter Dyar"
+copyright = "Copyright © 2022, Hugh Dyar IV."
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
