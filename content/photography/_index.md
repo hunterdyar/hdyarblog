@@ -15,6 +15,6 @@ My [photo blog](https://blog.notdroppingcameras.com/), where you can find my mos
 
 These days most of my personal photography is shooting and developing film, pulling equipment from my collection of over 100 film cameras.
 
----
 
-![A close-up photo of a bee and a flower](bee.jpg)
+
+![A photo of myself, face obscured by a camera](self.jpg)
