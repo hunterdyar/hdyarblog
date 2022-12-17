@@ -4,7 +4,7 @@ layout: single
 ---
 # Game Development
 
-## Completed Games
+## Personal Games
 
 {{< rawhtml >}}
 <iframe src="https://itch.io/embed/265003?linkback=true&amp;dark=true" width="552" height="167" frameborder="0"><a href="https://blooper.itch.io/shadowbright">Shadowbright by Hunter Dyar</a></iframe>
@@ -17,6 +17,10 @@ layout: single
 {{< rawhtml >}}
 <iframe src="https://itch.io/embed/872185?dark=true" width="552" height="167" frameborder="0"><a href="https://blooper.itch.io/pipes">Pipes by Hunter Dyar</a></iframe>
 {{< /rawhtml >}}
+
+## Games - Freelance
+- *A number of freelance projects I have worked on are under an NDA.*
+- **Presidents Cup 2022** - Contract development for the Software Engineering Institute. Multiplayer Unity Development using WebGL & Mirror, for the large [President's Cup](https://youtu.be/7-chaYzLmZg) cybersecurity competition.
 
 ## Jams
 - GGJ 2022: [Deertective 5: Full Tilt](https://blooper.itch.io/deertective-5-full-tilt)
@@ -36,4 +40,4 @@ layout: single
 - [Untitled Block Game Demo]({{< ref "/games/untitled-block-game/" >}})
 
 ## Other
-[Documentation/Gifdump Blog](https://www.tumblr.com/brightlightkeepgoing)
+[Documentation ("Gif Dump") Blog](https://www.tumblr.com/brightlightkeepgoing)
