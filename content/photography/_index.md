@@ -1,7 +1,6 @@
 ---
 title: Photography
 layout: single
-date: hide
 ---
 I have worked, and still occasionally freelance, as a professioanl photographer specializing in virtual reality capture, 360 photography, and image stitching.
 
