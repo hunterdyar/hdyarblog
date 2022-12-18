@@ -19,7 +19,7 @@ layout: single
 {{< /rawhtml >}}
 
 ## Games - Freelance
-- *A number of freelance projects I have worked on are under an NDA.*
+- *A few projects I have worked on are under an NDA.*
 - **Presidents Cup 2022** - Contract development for the Software Engineering Institute. Multiplayer Unity Development using WebGL & Mirror, for the large [President's Cup](https://youtu.be/7-chaYzLmZg) cybersecurity competition.
 
 ## Jams
