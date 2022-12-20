@@ -14,3 +14,7 @@ Much of my work these days is in creating open educational resources.
 - [YouTube](youtube.com/hunterdyar) - Videos I've made for the guidebook or for classes.
 
 Feel free to reach out. My email is me@hdyar.com. I am on [Mastodon](https://mastodon.gamedev.place/@hdyar), [Twitter](http://twitter.com/hdyar), and [Instagram](https://instagram.com/notdroppingcameras).
+
+---
+
+![Self Portrait, with face obscured by a camera](/photography/self.jpg)
