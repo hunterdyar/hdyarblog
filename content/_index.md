@@ -17,4 +17,12 @@ Feel free to reach out. My email is me@hdyar.com. I am on [Mastodon](https://mas
 
 ---
 
+Hugh “Hunter” Dyar is a creative technologist, photographer, developer, and educator. Hunter works with digital capture technologies and novel digital media processes to create and develop interesting processes and workflows.
+
+Hunter’s research is focused on creating open academic resources. He aims to develop resources, tools, software, and techniques that enable and empower others to create exciting work. In short, Hunter works to make creating art with technology more accessible.
+
+Leaning on his expertise in capture methods, his other research often involves exploring combinations of “inputs” and “outputs” in digital media. For example, his work in volumetric filmmaking development, or his efforts in examining and framing augmented reality as a data-visualization problem. 
+
+---
+
 ![Self Portrait, with face obscured by a camera](/photography/self.jpg)
