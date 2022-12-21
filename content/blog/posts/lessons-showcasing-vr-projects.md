@@ -1,6 +1,6 @@
 ---
 title: Lessons Learned From Showcasing Student VR Projects
-date: 12/17/2022
+date: 2022-12-17
 draft: true
 ---
 
@@ -27,15 +27,16 @@ I will discuss them in order.
 3. Better yet, get them to stop using google slides, or anything that *requires an internet connection* to work.
 4. That goes for youtube videos inside of powerpoints. Get them [offline](https://youtube-dl.org/).
 5. If it's not an open house, do an introduction. Don't forget to give guests context and information about the assignment.
-6. Give the guests a heads up as to what kind of advice or feedback you want them to give. In other words, let them know how harsh they are allowed or expected to be. Some professors use guests to give tough feedback while saving face in front of their long-term students they like. Some want want to broaden and diversify the kinds of feedback students will get. Be sure the guest knows! *"We brought you in here because we think your experience doing set design for theater will be useful for students."*
+6. Give the guests a heads up as to what kind of advice or feedback you want them to give. In other words, let them know how harsh they are allowed or expected to be. Some professors use guests to give tough feedback while saving face in front of their long-term students they like. Is it okay to give feedback **on** the presentation, or should that be deemphasized? Some want want to broaden and diversify the kinds of feedback students will get. Be sure the guest knows! *"We brought you in here because we think your experience doing set design for theater will be useful for students."*
 7. Write up a schedule and post it, if possible. Choose student order ahead of time. I usually just ask the students what order they want to go in, but decide the whole thing at the top of class, don't continuously ask "Who wants to go next?"
 8. Set timers and discussion time-limits. Telling people to "wrap up soon" is hard, but flashing a phone that has a big full-screen clock running is easy and passive, and can have the presenters/guests naturally wrapping up without breaking flow.
+9. Set the tone. Casual? Formal? It's your job to make sure students and guests know what the appropriate etiquette and expectations are. Easiest way to do is it just be stating it. No really, just say! "Welcome! These are informal, but graded presentations where..." Of course, simultaneously lead by example.
 
-Okay, but none of that is why you are reading this post. We do VR and AR. But the real truth us that it's not that hard if one is already doing solid student presentations. 
+Okay, but none of that is why you are reading this post. I run VR and AR showcases. But if you're already doing showcases well, then you will probably be fine, barring inevitable technical headaches.
 
 ## Showcasing Student VR Work Outside of VR.
 
-I can summarize this section rather quickly: **Require Documentation From Students**. 
+I can summarize this section rather quickly: **Require Documentation From Students**.
 
 ### Teach Documentation Indirectly
 
@@ -49,9 +50,9 @@ Another example of teaching documentation indirectly, is when running an in-clas
 
 ### Show Off Student Work Passively
 
-Documentation for the sake of documentation is never as good as documentation for specific screens of events. I don't believe the students are *lazy*, but that they need to be able to visualize a third party looking at them. Having a display cycling through student work will help them, very literally, imagine how they should be documenting their work. 
+Documentation for the sake of documentation is never as good as documentation for specific screens of events. I don't believe the students are *lazy*, but that they need to be able to visualize a third party looking at them. Having a display cycling through student work will help them, very literally, imagine how they should be documenting their work.
 
-Students see it, but they also see *documentation*, and it's a nice thing to point to. Plus, just directly asking "Hey, student, could you take some nicer screenshots and email them to me? I want to put that project up on the wall" is also a plus. 
+Students see it, but they also see *documentation*, and it's a nice thing to point to. Plus, just directly asking "Hey, student, could you take some nicer screenshots and email them to me? I want to put that project up on the wall" is also a plus.
 
 ### Grade The Documentation Instead of The Project
 
@@ -97,7 +98,7 @@ The unexpected downside of casting is local bandwidth and wireless interference.
 
 ### Use Experienced Demonstrators
 
-If a guest is in VR, that's great! We love that. 
+If a guest is in VR, that's great! We love that.
 
 But if it's a student showcasing, then these students are no longer 'playtesting', they're actors! Unless the showcase is for naive guests, the one in VR should be practiced and prepared. Show the students (just take a video of them + the casting screen in VR) what it looks like from the non-VR side of the presentation, so they can learn they really need to center objects on their vision, move their head slower, talk through what they are doing with their hands, do dances/gestures with their hands in front of their face, and all the other little tips that we've all picked up for "performing" VR.
 
@@ -107,7 +108,7 @@ Don't forget the golden rule of VR:
 
 > If you get punched by someone in VR, it's your fault!
 
- Crowded showcases, unfamiliar guests, and non-standard play-space setups are perfect recipe for an unfortunate accident. 
+Crowded showcases, unfamiliar guests, and non-standard play-space setups are perfect recipe for an unfortunate accident.
 
 My rule of thumb is: If we are ever showcasing for even one "outside" guest who is inexperienced with VR, then we must make our play spaces visible outside of VR. Luckily for us, we got custom carpet patterns installed in our studio, so we have pre-existing & permanent, play space areas. We just have to tell the guests to make note of them.
 
@@ -117,8 +118,4 @@ Get the lighthouses up HIGH and use more than you usually need. There's going to
 
 Often showcases involve a bug shuffle and reorganization of a space, and new obstacles to tracking may be introduced. Don't forget to test!
 
- 
-
-
-
- 
+> While cleaning for the showcase, we opened the blinds for the first time in 4 months and now all the tracking is wonky! Students can't figure out why and will panic. It's an easy thing to overlook!
