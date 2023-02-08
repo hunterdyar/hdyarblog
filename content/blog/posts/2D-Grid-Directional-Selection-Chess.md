@@ -1,7 +1,6 @@
 ---
 title: 2D Grid Directional Selection
 draft: true
-​---
 ---
 
 I was helping a student make a speed chess game for an arcade cabinet, and we hit an interesting problem.
