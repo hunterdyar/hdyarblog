@@ -6,7 +6,7 @@ draft: false
 
 During Global Game Jam 2023, we raised the possibility of having the camera fade out before a cutscene. I added it to the list, but never had time to implement it. I did think "Why should I have to implement that? Fading the camera should just be a thing". Well, with that spirit in mind, I created [Unity Transition Effects](https://github.com/hunterdyar/Unity-Transition-Effects/), a package that allows one to easily do camera transitions.
 
-![Animated Gif demonstrating a few of the effects](transitionEffect.gif)
+![Animated Gif demonstrating a few of the effects](images/transitionEffect.gif)
 
 Hacking together a proof of concept is simple enough - I first made a feature that can do this back in [2021](https://github.com/hunterdyar/BloopsUnityUtility/commit/dc0ace58bcb1045023485455748c376caf11a211). The problem with that solutions is that it's annoying to use, if you're already using other camera effects like Post Processing. It doesn't work "with" Unity.
 
