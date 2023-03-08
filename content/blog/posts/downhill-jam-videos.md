@@ -12,15 +12,15 @@ The second and third parts, doing Interaction and UI Panels, are the real heart 
 
 ## Part 1
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7RcG2ZsH1_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube 7RcG2ZsH1_w >}}
 
-## Part 2
+ ## Part 2
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pJdQCry_qA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube pJdQCry_qA0 >}}
 
 ## Part 3
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uq9kx-3cJFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube Uq9kx-3cJFg >}}
 
 ---
 
