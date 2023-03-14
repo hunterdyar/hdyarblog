@@ -6,7 +6,15 @@ draft: true
 
 ## Tilemap Component
 
-The basic goal is to create some kind of map manager, so we can put elements on a grid, check what objects are where, do pathfinding, and so on. Without getting any more specific than that (which would be just programming the thing, just go look at my source code), here are some takeaways and lessons that I have learned.
+The basic goal is to create some kind of map manager, so we can put elements on a grid, check what objects are where, do pathfinding, and so on. Without getting any more specific than that (which would be just programming the thing, just go look at my source code), here are some takeaways and lessons that I have learned writing various tools and projects that use the tilemap.
+
+### Tilemap Good Practices
+
+- Organize the palette to be easy to draw, arrange tiles together sensibly.
+- Take advantage of scriptable tiles to minimize tile assets and tedious work.
+  - In many cases, you might want to just use the Rule Tile found in [2D Tilemap Extras](https://docs.unity.cn/Packages/com.unity.2d.tilemap.extras@1.8/manual/Tiles.html), avoiding having to write any of these things from scratch.
+
+## Extending The Tilemap
 
 ### Interfacing with Tilemap
 
@@ -27,6 +35,26 @@ The downside is that we have to keep our node network in sync with the tilemap. 
 ### Getting All Tiles
 
 Code snippet for looping through the data.
+
+## Agents On The Map
+
+Having a map is good, but we want to know when where everything is. Is there a block next to the player? Is there an enemy under this tile? Can I move in this direction? 
+
+> I like to call anything that can go on a tile, move between tiles, and not occupy the same space as another agent, an "agent". 
+
+The decision to make is: Should agents keep track of what NavTile they are on, or should NavTiles keep track of what agents are on them? What you need to write convenient and easy to check code is **both**. I want to ask agents what tiles they are on, find that tiles neighbors, and ask those tiles if they have agents. This should be possible and easy. But, if I am storing a single relationship in two places, it can easily get our of sync. What I want to avoid to prevent a bug-nightmare is **both**. How do we compromise?
+
+The trick is not deciding where to store the data - both places can have read-only references to their current tile/agents. The trick is deciding on a single source of truth to update it, and have that update the values appropriately. We make it impossible to update tiles *without* using our special function that handles the interdependency, and we should be good enough. 
+
+### Options
+
+1. Agents move onto tiles.
+2. Tiles accept Agents.
+3. Use the Tilemap.
+
+I like option 3 for small projects. Agent's basically have to have a reference to the tilemap anyway to figure out where they are standing on start, even for simple agents that may never move. You don't have to work that way. I've seen many systems that put colliders on all the tiles, and have agents raycast down to determine where they are, and update themselves through the tiles. I don't like that solution, but if one is always consistent with how the tiles get updated, it will work. 
+
+The downside of having the Tilemap hold onto "MoveAgentToTile" functions is that it gets rather complex - that's a lot of logic and systems for a single Unity component to handle and interact with. It gets particularly challenging if we want to support multiple maps, like dynamically loading in scenes (new rooms) and having them connect. If an agent just talks to it's tile, that complexity of when it "switches maps" can be hidden from the agent, and we don't need to worry about updating some "current tilemap" reference. That's why I only like option 3 for small projects, where each level is just a pre-determined room with no runtime loading or unloading, of off-map links. I prefer Option 2, where the Nodes contain the interfaces for updating the map, otherwise. 
 
 ## Hex Grids
 
