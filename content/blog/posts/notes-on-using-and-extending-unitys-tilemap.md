@@ -4,6 +4,30 @@ draft: true
 
 ---
 
+## Tilemap Component
+
+The basic goal is to create some kind of map manager, so we can put elements on a grid, check what objects are where, do pathfinding, and so on. Without getting any more specific than that (which would be just programming the thing, just go look at my source code), here are some takeaways and lessons that I have learned.
+
+### Interfacing with Tilemap
+
+Tilemap is a sealed class, which means we can't extend it and make our own version of it. (Why is it sealed? A Unity Forum post [from 2008](https://forum.unity.com/threads/sealed-classes-in-u3.60638/#post-440101) shed's light on the design decision: It would bork with deserialization, and means unity can focus on a public api they can keep documented and stable, separate from whatever is going on in their internal/private api.
+
+So, we can't - and, arguably shouldn't - make our own Tilemap. I like to make my own script on the same game object.
+
+Tilemap provides an event for when tiles are updated, but it's editor only.
+
+### Read Or Clone Tile Data
+
+Tilemap isn't a convenient solution for operating with. When we poll what Tile is at a location, it gives us a reference to the Tile scriptableObject. If i want to read "is this grass or dirt?", that's fine, but writing to it would modifiy every tile of that type. Probably not what we want for, say, storing game logic, like player positions. Instead, I prefer to create my own Dictionary that has a key of type Vector3Int - the tile position, and a value of some node class. The node class can store a reference to what type of tile is at this location, we can use it for pathfinding, it can cache a reference to it's neighbors, be updated at runtime, connect to other nodes in ways the tilemap doesn't intend (off-map links? doors? teleports?) and more. 
+
+What's more, when we create the nodes, we can convert from the grid space that Unity provides to our own. Perhaps going from Vector3Int to Vector2Int to drop an uneeded z value, or - see below about hex grids - converting into a more convenient coordinate system for algorithms to run on.
+
+The downside is that we have to keep our node network in sync with the tilemap. Most projects I work on don't update the tilemap at runtime, but for us, we would have to re-scan the tilemap and recreate or merge our node maps after any changes were made, an expensive process.
+
+### Getting All Tiles
+
+Code snippet for looping through the data.
+
 ## Hex Grids
 
 ### How The Grid Component Treats Hex Grids
