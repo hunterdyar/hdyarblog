@@ -42,19 +42,34 @@ Having a map is good, but we want to know when where everything is. Is there a b
 
 > I like to call anything that can go on a tile, move between tiles, and not occupy the same space as another agent, an "agent". 
 
-The decision to make is: Should agents keep track of what NavTile they are on, or should NavTiles keep track of what agents are on them? What you need to write convenient and easy to check code is **both**. I want to ask agents what tiles they are on, find that tiles neighbors, and ask those tiles if they have agents. This should be possible and easy. But, if I am storing a single relationship in two places, it can easily get our of sync. What I want to avoid to prevent a bug-nightmare is **both**. How do we compromise?
+The decision to make is: Should agents keep track of what NavTile they are on, or should NavTiles keep track of what agents are on them? What you need to write convenient and easy to check code is **both**. I want to ask agents what tiles they are on, find that tiles neighbors, and ask those tiles if they have agents. This should be possible and easy. But, if I am storing a single relationship in two places, it can easily get out of sync. We really want to avoid both, it's a bug-filled nightmare where we have to remember to update a single (conceptual) piece of information in two (literal) variables. How do we compromise?
 
-The trick is not deciding where to store the data - both places can have read-only references to their current tile/agents. The trick is deciding on a single source of truth to update it, and have that update the values appropriately. We make it impossible to update tiles *without* using our special function that handles the interdependency, and we should be good enough. 
+The trick is not deciding where to store the data - both agents and tiles can have read-only references to their respective tile/agents. That's useful. The trick is deciding on a single source of truth to update it, and have that update the values appropriately. We make it impossible to update tiles *without* using our special function that handles the interdependency, and we should be good enough. 
 
-### Options
+We have two approaches: 
+
+1. Store the data twice, and use a wrapper function to ensure both variables get updated.
+2. Store the variable once, and use a convenience function or auto-body property to get the other seamlessly.
+
+The former is simpler to implement, the later relies on some references being in place, probably to the tilemap. Since agents and tiles probably need that reference anyway, this is fine.
+
+### Who Controls The Board?
 
 1. Agents move onto tiles.
 2. Tiles accept Agents.
-3. Use the Tilemap.
+3. Tilemap controls both as a manager (or neutral third party)
 
-I like option 3 for small projects. Agent's basically have to have a reference to the tilemap anyway to figure out where they are standing on start, even for simple agents that may never move. You don't have to work that way. I've seen many systems that put colliders on all the tiles, and have agents raycast down to determine where they are, and update themselves through the tiles. I don't like that solution, but if one is always consistent with how the tiles get updated, it will work. 
+I like option 3 for small projects. Agent's basically have to have a reference to the tilemap anyway to figure out where they are standing on start, even for simple agents that may never move. You don't have to have this reference, however. I've seen many systems that put colliders on all the tiles, and have agents raycast down to determine where they are, and update themselves through the tiles. There is a certain simplicity in separating the "map stuff" from "player stuff". I don't like that solution, but if one is always consistent with how the tiles get updated, it will work. 
+
+> To keep 'agent stuff' and 'map' stuff separate, I prefer to separate components. The player controls player logic, and tells it's agent component when to move, and so on. You can also have player logic extend your agent class, whatever seems simpler to work with for you probably is.
 
 The downside of having the Tilemap hold onto "MoveAgentToTile" functions is that it gets rather complex - that's a lot of logic and systems for a single Unity component to handle and interact with. It gets particularly challenging if we want to support multiple maps, like dynamically loading in scenes (new rooms) and having them connect. If an agent just talks to it's tile, that complexity of when it "switches maps" can be hidden from the agent, and we don't need to worry about updating some "current tilemap" reference. That's why I only like option 3 for small projects, where each level is just a pre-determined room with no runtime loading or unloading, of off-map links. I prefer Option 2, where the Nodes contain the interfaces for updating the map, otherwise. 
+
+Any more discussion in this direction veers into overall game architecture, and away from tilemaps.
+
+## Using Multiple Tilemaps On One Grid
+
+The biggest reason to use multiple tilemaps is colliders.
 
 ## Hex Grids
 
