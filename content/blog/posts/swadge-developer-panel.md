@@ -1,5 +1,5 @@
 ---
-title: Squarewavebird Swadge Dev Stories - My Talk at MagFest
+title: Squarewavebird Swadge Dev Stories - My Talk at MagFest 2023
 date: 2023-03-17
 ---
 
