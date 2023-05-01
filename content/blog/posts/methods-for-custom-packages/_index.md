@@ -35,6 +35,8 @@ Instead of adding the package by a git url, you skip the package manager, and ad
 Pros: You can edit the files and manage it as a 'prope' remote package. 
 Cons: You must use git for your base project in order to use the submodule. Also, git submodules are very annoying, and can cause plenty of git headaches. *(Note: I like [Fork](https://git-fork.com/), a git UI that makes some of the more tedious git things, like rebasing or submodules, much easier).* 
 
+![@AenderLara on Twitter https://twitter.com/AenderLara/status/1653165910293659656](./devvsartist.png)
+
 First, set up the package just like the above, as a proper unity package and host it on github, or whatever git remote you are using. You **could** add the asset by git url in the package manager at this point. 
 
 Now, go to git and add a git submodule with the remote url, to a "Packages/com.package.packagename/" folder.
