@@ -33,6 +33,8 @@ Git needs to be installed to add by git url.
 Instead of adding the package by a git url, you skip the package manager, and add a git [submodule](https://www.atlassian.com/git/tutorials/git-submodule). 
 
 Pros: You can edit the files and manage it as a 'prope' remote package. 
+Pros: You can use multiple branches to keep project-unique changes separate, before (perhaps) safely merging.
+
 Cons: You must use git for your base project in order to use the submodule. Also, git submodules are very annoying, and can cause plenty of git headaches. *(Note: I like [Fork](https://git-fork.com/), a git UI that makes some of the more tedious git things, like rebasing or submodules, much easier).* 
 
 ![@AenderLara on Twitter https://twitter.com/AenderLara/status/1653165910293659656](./devvsartist.png)
@@ -46,3 +48,17 @@ From Unity's point of view, this is an [embedded package](https://docs.unity3d.c
 The difference is that you can make changes to the files, then go into the submodule and commit/push those changes to the packages remote, then go back to your project and commit and push it's separate changes there.
 
 You can set up multiple packages as submodules.
+
+## Symbolic Links
+
+
+
+# Conclusion
+
+Check out the Unity 2022 talk [How to adopt a modular code workflow for your team](https://youtu.be/nk3gHIZZ5Rg?list=PLX2vGYjWbI0Qavt5La4C2xfILQKj8l8g5) for a broader overview and discussion. It also covers code strategies for adopting a more modular workflow.
+
+If modular unity development is interesting to you, here is a list of relevant topics:
+
+- assembly definition files
+- unity manual: custom packages
+- 
