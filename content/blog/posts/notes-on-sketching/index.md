@@ -4,7 +4,7 @@ date: 2023-07-28
 ---
 
 ## What is a Sketch?
-Ideas are not real and communicable until we attempt to externalize them. A sketch is the lowest fidelity experiment of the realization of an idea.
+Ideas are not real and communicable until we attempt to externalize them. A sketch is the lowest fidelity attempt to realize an idea.
 
 ## Externalization of an Idea
 Sketches turn ideas into things that must be sensed or experienced, which we then interpret back into ideas.
@@ -18,7 +18,11 @@ Looking at the difference between the idea that we perceive, and our original id
 - You do not need to start with a complete idea. You can start with almost nothing, a single line, a prompt, or random noise.
 
 ## Empathy as a Viewer
-It is the minimum required effort required to empathize with the viewer/user. We want to know what our creation will be like when it’s not in our heads, but alone.
+It is the minimum required effort required to empathize with the viewer/user. We want to know what our creation will be like when it’s not in our heads, but alone. 
+
+We become the viewer (or user, or player) who cannot merely *know* an idea, but must *perceive*, *interpret*, and *experience* the sketch to turn it into an idea. 
+
+It can be said that sketching turns us from creator into an audience member, but we throughout the process we end up with a foot in both pairs of shoes, creating and experiencing and analyzing all at the same time, as we engage with the feedback loops of the creative process.
 
 ## Two Approaches To Sketching
 The gap between the idea we start with, and the idea we end up with is where the magic of creativity happens. Inevitably, there will be a difference between them. We can move in two directions:
