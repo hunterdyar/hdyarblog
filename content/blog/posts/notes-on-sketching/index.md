@@ -28,10 +28,11 @@ It can be said that sketching turns us from creator into an audience member, but
 The gap between the idea we start with, and the idea we end up with is where the magic of creativity happens. Inevitably, there will be a difference between them. We can move in two directions:
 
 1.	We can iterate to make the idea we are sketching more like the idea in our head: Refine, Shape, Form
-2.	We can iterate to make the idea in our head more like the idea we are sketching: Follow a lead, Discover, Inspiration.
+2.	We can iterate to make the idea in our head more like the idea we are sketching: Follow a Lead, Discover, Chase Inspiration.
 
-An effective creative process will never do just one or the other approach. Sticking to a vision you can’t make a reality is frustrating or repetative, and following miscellaneous creative leads will never leave you at an intended destination.
-It’s important to know what you are trying to do. Analyze your own creative sketching process and be aware which approach is happening at any point in time.
+An effective creative process will never do just one or the other approach. Sticking to a vision you can’t make a reality is frustrating and repetitive. Following miscellaneous creative leads will leave you unable to reach a desired destination.
+
+It’s important to know what you are trying to do. Analyze your own creative sketching process and be aware which approach is happening at any point in time. If you're stuck, change your approach.
 
 ## Sketching & Iteration
 I recommend the following iterative approach to sketching:
@@ -41,36 +42,39 @@ I recommend the following iterative approach to sketching:
 4.	Refine this new idea down into something specific
 5.	Repeat
 
-Basically, you are following the process starting with approach two, refining into approach one. You are repeating this on a micro single-sketch scale, and executing the same kind of process throughout a macro multi-sketch process.
+Basically, you are following the process starting with approach two, refining into approach one. You are repeating this pattern on a micro single-sketch scale, and executing the same kind of follow-leads-then-refine process throughout a macro multi-sketch process.
 
 ## Visualization
-The ability to have an (internal) idea that accurately reflects its (external) form is as kill photographers call ‘visualization’. Visualization is something that comes with experience and practice, but it’s important to know that it does not let us bypass the sketching process. Rather, it allows us to prioritize our efforts on playing with unknown ideas, and spending more time chasing creative leads, as opposed to less. 
-Visualization can be a trap, where we end up not discovering new directions because we never bothered to externalize the idea in the first place. It’s not that you aren’t good at visualization (although you aren’t), it’s that if you are confident you know what you are going to get from a sketch, then you aren’t sketching effectively.
+The ability to have an (internal) idea that accurately reflects its (external) form is a skill photographers call ‘visualization’. Visualization is something that comes with experience and practice, but it’s important to know that it does not let us bypass the sketching process. Rather, it allows us to prioritize our efforts on playing with the interesting, curious, and unknown. With visualization, we should be spending *more* time chasing creative leads, not less. 
+
+Visualization can be a trap. Too convinced of our predictions, we end up not discovering new directions or opportunities. Sketching less, we never bothered to externalize the idea in the first place. This trap happens not because one just isn't good enough at visualization, it’s that if one is confident they know what they are going to get from a sketch, then they are not sketching effectively.
 
 ## Enforcing Discovery
-As with the trap of visualization, discovery too can have a trap. We get stuck following the same leads, making the same changes, and repeating. If we start from the same place, at about the same place in time, in the same mental state, and are using the same process, why wouldn’t we end up in the same place?
-We can enforce our ability to discover leads in a few ways.
+As with the trap of visualization, discovery too can have a trap. We get stuck following the same leads, making the same changes, and repeating. If we start from the same place, at about the same place in time, in the same mental state, and are using the same process, why wouldn’t we end up in the same place? So how do we discover new threads? Where does inspiration come from?
+
+We can enforce our ability to discover creative leads in a few ways.
 
 ### Sketch bad ideas anyway
 The idea isn’t the point, but the discovery of something interesting about it is. Bad ideas executed are incredibly useful to learn from.
     
 ### Turn An Early Creative Decision Around
-After we have finished an idea, go back to one if it’s first groundwork decisions and invert or change it radically. After setting up the lighting, pose, and everything else of a photo, I often “turn around”, and take a photo in the complete opposite direction. The lighting of the scene is completely different, but much of the other decisions I made with the original lighting in mind remain. I find new patterns and discoveries here.
+After we have finished an idea, go back to one of the initial decisions/assumptions and invert or change it radically. For example, after setting up the lighting, pose, and everything else of a photo, I often then “turn around”, and take a photo in the complete opposite direction. The lighting of the scene is completely different, but much of the other decisions I made with the original lighting in mind remain. I find new patterns and discoveries in this space.
 
 ### Read
 - Want to be a great writer? Read. A great photographer? Take photos. A great painter? Look at paintings. 
-- Duh, but seriously. Make time.
-- Attempt to reverse engineer some of the decisions or patterns at play, add them to your bag of tricks.
+- Duh... but seriously. Make time.
+- Attempt to reverse engineer some of the decisions or patterns at play, add them these your bag of tricks.
+- Mimicry, Theft, and Copying is useful. Follow the creative steps of another, and try to imagine what decisions got them there. These decisions are what you will carry forward for your own creative process (not the stolen work).
 
 ### Show the Sketch to Others
-- For obvious reasons
-- For non-obvious reasons, their thoughts and lateral connections (“this reminds me of...”) can often surprise you.
+- For obvious reasons. Get feedback!
+- For non-obvious reasons, unexpected observations and lateral connections (“this reminds me of...”) can often surprise you in effective creative ways.
 
 ### Think Differently
-- Become someone new: Take a break. Consume new media, read, talk to people, sleep. Drink Coffee. Listen to music.
-- Force perspective change. Stand up, back up, flip the idea around. Literally flip a piece of paper around. Stand on your head. Zoom in. Zoom out. Change to black and white. 
+- Become someone new: Take a break. Consume new media. Read. Talk to people. Sleep. Drink some coffee. Listen to new music.
+- Force a perspective change: Stand up, back up, flip the idea around. Literally flip the piece of paper around. Stand on your head. Zoom in. Zoom out. Change to black and white. Rotate the monitor. 
 
-### Do the same Idea Again
-- Don’t make the same adjustments you did previously.
+### Do the Same Idea Again
+- Start from the same place, but don’t make the same adjustments you did previously.
 - Follow your “second” instinct. Chase an alternative solution, with your initial solution disallowed.
 - It can be counterintuitive that one of the best ways to get our of a repetative rut is to repeat oneself. Instead of different starting places to the same result, start at the same starting place - from here it's easier to force yourself to end up at a different result.
