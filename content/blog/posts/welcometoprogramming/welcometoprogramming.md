@@ -9,6 +9,8 @@ Welcome to programming! I’m glad you’re here.
 
 Programming is the mysterious art of telling computers what to do.
 
+![Venn Diagram of Computers and Humans, with Programming shared](venn.png)
+
 Programming is not easy. It’s a step that makes up a large and complex process. Its semantics are mired in jargon and history, its historical development sudden and ambiguous. Learning programming is hard because there is *so much* to learn.
 
 Learning programming is challenging because it is hard to find the answers to the actual problems you are experiencing. Imagine trying to learn how to drive, and your teacher is going on on about engines and crank shafts… but you’re hurtling down a highway right now, and asking what the road signs mean. So - because this is programming and not driving - you pause and go to the internet to research road signs but only discover information about how turn signals work and what the buttons on the dashboard do. You ask a friend for help and they start telling you about how cool motorcycles are. This is a deeply frustrating situation. There are the mechanical parts of a car, like how the engine works, but also the social-level and systems-level parts of driving, like the rules of the road, or what “validated parking” means.
@@ -23,8 +25,6 @@ Programming is simplifying a complex process into a more usable system.
 Consider how one doesn’t need to know the ins and outs of how a steering wheel and the front tires are mechanically linked. It’s enough to understand that turning the wheel will turn the tires. Programming can be like that, except that your instructors, like myself, will lie to you by constantly saying “you don’t need to worry about that”. What we mean to say is “you don’t need to worry about that **right now**. Understanding this won't get you closer to understanding the immediate problems”. Us evil instructors are just trying to help you focus.
 
 Programming is a layer of abstraction, and it exists as one of the few layers between the human and the computer. There are layers of abstraction that go ‘higher’ up to the world of humans: patterns, vocabulary, systems diagrams, and planning tools that allow us to discuss, collaborate on, and plan programming without actually looking at or typing any code. There are many layers of abstraction that go the other way, the compiler to the operating system to the virtual machine code to the actual machine code to the logic gates to NAND gates to the  1s and 0s to the high and low voltage states of wires to the current state of transistors.
-
-/ Diagram of …Layers. “Computer zone” “Human Zone” “Programming”
 
 We are not going to learn most of the “lower” layers of abstraction that allow computers to work. I am not going to teach you how computers work, although I will direct you to some further resources on the topic. We will *model* how a computer works accurately enough for us to write code and solve bugs and understand why things are the way that they are - but no further. We just don’t have time. (For what it’s worth, I teach more of “how computers work” than most programming instructors!).
 
