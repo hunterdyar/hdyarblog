@@ -9,7 +9,7 @@ Welcome to programming! I’m glad you’re here.
 
 Programming is the mysterious art of telling computers what to do.
 
-![Venn Diagram of Computers and Humans, with Programming shared](venn.png)
+![Venn Diagram of Computers and Humans, with Programming shared](images/venn.png)
 
 Programming is not easy. It’s a step that makes up a large and complex process. Its semantics are mired in jargon and history, its historical development sudden and ambiguous. Learning programming is hard because there is *so much* to learn.
 
