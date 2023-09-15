@@ -5,7 +5,7 @@ Hello. I'm Hugh Huntington Dyar IV.
 
 *(Most people call me "Hunter", "HD", or "Smokey")*
 
-I am an Assistant Professor of Immersive Media. I teach courses on VR/AR technology, Unity Development, and Photography.
+I am an Assistant Professor of Immersive Media at Chatham University. I teach courses on VR/AR technology, Unity Development, and Photography.
 
 Much of my work these days is in creating open educational resources.
 - [The Guidebook](https://guidebook.hdyar.com) - Unity/Digital Media Learning Articles/Videos.
