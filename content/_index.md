@@ -12,7 +12,7 @@ Much of my work these days is in creating open educational resources.
 - [Immersive Media Pocket Reference](https://impr.hdyar.com) - VR Examinations and Notes.
 - [How To Not Drop A Camera](http://howtonotdropacamera.com) - Teach yourself photograhpy.
 - [YouTube](youtube.com/hunterdyar) - Videos I've made for the guidebook or for classes.
-- [Github](https://github.com/hunterdyar) - Various projects/source.
+- [GitHub](https://github.com/hunterdyar) - Various projects/source.
 
 Feel free to reach out. My email is me@hdyar.com. I am on [Mastodon](https://mastodon.gamedev.place/@hdyar), [Twitter](http://twitter.com/hdyar), and [Instagram](https://instagram.com/notdroppingcameras).
 
