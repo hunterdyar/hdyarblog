@@ -18,6 +18,10 @@ layout: single
 <iframe src="https://itch.io/embed/872185?dark=true" width="552" height="167" frameborder="0"><a href="https://blooper.itch.io/pipes">Pipes by Hunter Dyar</a></iframe>
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+<iframe frameborder="0" src="https://itch.io/embed/2470877" width="552" height="167"><a href="https://blooper.itch.io/zoomy-cat">Zoomy Cat! by Hunter Dyar</a></iframe>
+{{< /rawhtml >}}
+
 ## Games - Freelance
 - *A few projects I have worked on are under an NDA.*
 - **Presidents Cup 2022** - Contract development for the Software Engineering Institute. Multiplayer Unity Development using WebGL & Mirror, for the large [President's Cup](https://youtu.be/7-chaYzLmZg) cybersecurity competition.
