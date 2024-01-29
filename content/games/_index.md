@@ -27,6 +27,7 @@ layout: single
 - **Presidents Cup 2022** - Contract development for the Software Engineering Institute. Multiplayer Unity Development using WebGL & Mirror, for the large [President's Cup](https://youtu.be/7-chaYzLmZg) cybersecurity competition.
 
 ## Jams
+- GGJ 2024: [Deetective: Ultimate Forest Fighters](https://globalgamejam.org/games/2024/deertective-ultimate-forest-fighters-4)
 - GMTK 2023: [Words Rules](https://blooper.itch.io/words-rules)
 - GGJ 2023: [Deertective: A Forest For The Trees](https://blooper.itch.io/deertective-forest-for-the-trees)
 - GGJ 2022: [Deertective 5: Full Tilt](https://blooper.itch.io/deertective-5-full-tilt)
