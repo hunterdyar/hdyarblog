@@ -1,14 +1,19 @@
 ---
 title: In Search of a No-Memorization Terminal
 draft: true
+date: 2024-02-02
 ---
 
-Working in the terminal has long been the domain of computer power users, but why? It's confusing, and intimidating to be sure. Understanding how to effectively work on the command line involves working with a weird and wide set of odd commands and mystic incantations.
+Working in the terminal has long been the domain of computer power users. It's confusing, and intimidating Understanding how to effectively work on the command line involves working with a weird and wide set of odd commands and mystic incantations. But that stinks! 
+
+The terminal is great. It's powerful, simple, and consistent. There are all sorts of reasons to want to use the terminal. I'll save those for another blog post, and focus on one of the command line's biggest weaknesses. Accessibility.
 
 It's inaccessible!
+
 - No visual representation of the state of the computer system.
 - Have to memorize commands to operate. No discoverable UI.
 - Small changes can lead to unexpected and disasterous outcomes. No safety net.
+- Requires precise and speedy typing to feel effective.
 
 So, how can we make the terminal more accessible?
 
@@ -18,28 +23,31 @@ These tools save files in non-interoperable ways, and are the only workflow for 
 
 On ther terminal, things are different. Commands, software, and tools are all largely disconnected from the data that they operate on. You might use a number of tools to create a document, analyze it, move it around, and convert it to another form.
 
-This exaserbates a certain problem: the need for memorization. There is nothing telling you which tool to use to validate a JSON file or move a document. Googleing the problem is unhelpful because there are many, many possible and correct answers, and they may not apply to your termianl.
-
+This exaserbates a certain problem: the need for memorization. There is nothing telling you which tool to use to validate a JSON file or move a document. Googleing the problem is unhelpful because there are many, many possible and correct answers, and they may not apply to your terminal.
 
 This blog post is about tackling just one problem with terminals: discoverable UI.
 
 ## The Terminal on Easy Mode
 Instead of [cheatsheets](https://github.com/RehanSaeed/Bash-Cheat-Sheet) or [guides](https://zsh.sourceforge.io/Guide/zshguide01.html#l1), what if we could maximize the amount of information the command prompt presented to you that was about the available choices you can do?
 
-Then, you can still *mostly* focus on the task at hand (what makes working in the terminal comfortable and fun - it's simplicity) while not having to memorize or reference commands.
+> What if you could learn how to use the terminal by using the terminal?
+
+Then, you can still *mostly* focus on the task at hand (what makes working in the terminal comfortable and fun -  simplicity) while not having to memorize or switch to reference lookup.
 
 After some research, I am presenting you a set of terminal commands and software that give you the power of a linux elder without the hassle of years of practice. More like... a half-hour of practice.
 
-I present: The no-memorization terminal
+I present the results of my research.
+
+# The no-memorization terminal
 
 ## Objectives For a No-Memorization Terminal
 ### Open-source and activly used  tools
-No matter how good the tool is, we want to be able to use it in a year. Or two-years from now. Terminal software need not be updated as often as GUI's. That's the joy of terminal commands: They don't tend to break when windows puts out an update. So the active community is more about being able to find support and resources for the tool than worrying about if it will stop working one day.
+No matter how good the tool is, we want to be able to use it in a year. Or two-years from now. Terminal software just does not need not be updated as often as GUI's. That's the joy of terminal commands: They don't tend to break when windows puts out an update. The requirement for an active community around a tool is about being able to find support and resources for the tool.
 
 Open-Source is a requirement because we want the tools to continue existing when it's current maintainers move on to something else.
 
 ### Cross-Platform
-It would be good to work consistently when switching between machines. There will still, sadly, be *some* memorization. So cross-platform support aleviates things working differently in different places.
+It would be good to work consistently when switching between machines. So cross-platform support aleviates things working differently in different places, which aleviates how much we have to memorize. You might only use one operating system, and this doesn't matter as much to you.
 
 ### Minimal configuration, reasonable defauts
 One of the best features of terminal tools is that they generally extremely customizable. That also makes them annoying, as many tools assume you will change the configs and give you a bare starting point. We want to install a tool and move on with our lives. It should be *just fine* out of the box.
