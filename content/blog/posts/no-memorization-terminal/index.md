@@ -33,7 +33,7 @@ Then, you can still *mostly* focus on the task at hand (what makes working in th
 
 After some research, I am presenting you a set of terminal commands and software that give you the power of a linux elder without the hassle of years of practice. More like... a half-hour of practice.
 
-
+---
 
 I present: The no-memorization terminal.
 
