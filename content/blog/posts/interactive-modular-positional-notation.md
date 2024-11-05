@@ -4,7 +4,7 @@ date: 2023-07-17
 draft: false
 ---
 
-I created an interactive exolainer for Positional Notation, aiming to teach the underlying principles of Binary and Hexadecimal notation.
+I created an interactive explainer for Positional Notation, aiming to teach the underlying principles of Binary and Hexadecimal notation.
 
 [https://explainers.hdyar.com/binary/index.html](https://explainers.hdyar.com/binary/index.html).
 
