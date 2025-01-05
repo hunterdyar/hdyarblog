@@ -7,14 +7,17 @@ My dad is a big chess fan. For Christmas this year, I created a gift. A display 
 
 ![The finished project, installed on my Dad's shelf of chess things](./chessViewer.jpg)
 
-
 For the display, I simply used a 2018 Galaxy Tablet I was given for free. Recycling! 
 
 For the stand, I designed and 3D printed it myself. I am a week or so into learning Fusion 360, and I am still quite a novice at the software. After more pain than it should have caused, I had a tablet stand printed.
 
+I then printed some large knight pieces, and glued them to the stand for bespoke decoration. (If you are already 3D printing, it deserves customization).
+
 Finally, for the game itself, I created the viewer from scratch in Unity. 
 
-The project code is available on [GitHub](https://github.com/hunterdyar/LiveChessGameViewer/). The 3D view doesn't really work. When it comes to clean code practices or nice architecture, I did not walk the walk. It's sloppy! But it gets the job done.
+The project code is available on [GitHub](https://github.com/hunterdyar/LiveChessGameViewer/). The 3D view doesn't really work. Once I realized the tablet couldn't handle it, I stopped fixing bugs there.
+
+When it comes to clean code practices or nice architecture, I did not walk the walk. It's sloppy! But it gets the job done.
 
 The project works like [Lichess TV](https://lichess.org/tv).
 
@@ -31,6 +34,4 @@ The next hardest part was comparing the new and previous boards and figuring out
 The last challenge was turning a tablet into an always-on display. Putting the tablet into developer mode allows you to turn on a "stay awake while plugged in" option in the developer settings.
 
 The gift was a huge success! Not bad for something that only cost me a dollar or so of plastic fillament, and my time spent programmning it.  
-
-
 
