@@ -2,7 +2,7 @@
 title: "A Crash Course in Designing for Virtual Reality: Why Laser Pointers Suck and We Can Do Better"
 ---
 # An Introduction to Design for Virtual Reality. Or Why Laser Pointers Suck and We Can Do Better
-[Super MAGFest 2025](https://super.magfest.org/)
+[Super MAGFest 2025](https://super.magfest.org/) - [Schedule Page](https://builder.guidebook.com/g/#/guides/magfest2025/schedule/sessions/30811056)
 
 Download the Slides or pdf with speaker notes. *Coming Soon*.
 
