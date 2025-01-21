@@ -18,6 +18,7 @@ Download the Slides or pdf with speaker notes. *Coming Soon*.
 - [Voices of VR#1281: Mixed Reality Gameplay Innovations & Design Insights from “Starship Home”](https://voicesofvr.com/1482-mixed-reality-gameplay-innovations-design-insights-from-starship-home-co-directors-mark-schramm-ashley-pinnick/) - Kent Bye with Starship Home Co-Directors Mark Schramm & Ashley Pinnick
 - [Starship Home and the Future of Mixed Reality](https://medium.com/@doug_creature/starship-home-and-the-future-of-mixed-reality-5bda9d29a756)
 - [Unity Audio Spatializer SDK](https://docs.unity3d.com/Manual/AudioSpatializerSDK.html) - Unity Manual page
+
 ### Talks
 - [There’s More To It Than Shoving Photons In Your Face - Omer Shapira - WEIRD REALITY: Head-Mounted Art && Code](https://vimeo.com/228098189) - A great 'You Don't get depth for Free' Talk
 - [Fantastic Contraption or Why VR Menus Suck](https://gdcvault.com/play/1023668/Menus) - 'floor scale VR', around-the-body grab shortcuts, diagetic and joyful menus
@@ -28,8 +29,8 @@ Download the Slides or pdf with speaker notes. *Coming Soon*.
 ### Books
 - [Game Feel](http://www.game-feel.com/) by Steve Swink
 - [Hamlet on the Holodeck: The Future of Narrative in Cyberspace](https://mitpress.mit.edu/9780262631877/hamlet-on-the-holodeck/) by Janet H. Murray
-- [Creating Augmented and Virtual Realities](https://www.oreilly.com/library/view/creating-augmented-and/9781492044185/ by Erin Pangilinan, Steve Lukas, Vasanth Mohan
-
+- [Creating Augmented and Virtual Realities](https://www.oreilly.com/library/view/creating-augmented-and/9781492044185/) by Erin Pangilinan, Steve Lukas, Vasanth Mohan
+- [The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)) by Donald Norman 
 ## Mentioned Games
 - [Starship Home](https://www.creature.page/starship-home) - Make it Goopy! Make it Magical. Mixed Reality is pretty great for establishing depth cues.
 - [Beat Saber](https://www.beatsaber.com/) - Let Users Choose Color
