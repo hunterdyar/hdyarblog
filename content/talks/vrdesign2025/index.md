@@ -51,6 +51,7 @@ Download the Slides or pdf with speaker notes. *Coming Soon*.
 - [Half-Life: Alyx](https://www.half-life.com/en/alyx) - Hands to communicate role play.
 - [Broken Edge](https://fasttravelgames.com/games/brokenedge) - Core Interaction Emphasis.
 - [Until You Fall](https://untilyoufall.schellgames.com/). Encourage Movement. Hide teleportation under actions. Aggressive Vignetting.
+- [Trombone Champ: Unflattened](https://www.meta.com/experiences/trombone-champ-unflattened/25085547287757633/) - Kinesthetic. Silly.
 
 ## Other
 - [Mouse Car](https://hdyar.com/blog/posts/mouse-car/) - My 'Ironic Design Execution' project to control your computer mouse like a car. It's Intuitive!
