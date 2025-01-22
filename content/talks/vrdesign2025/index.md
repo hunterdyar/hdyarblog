@@ -51,8 +51,8 @@ Download the Slides or [pdf](./Introduction to Design for VR Magfest 2025.pdf).
 - [Little Cities](https://www.meta.com/experiences/little-cities/4988470131168299/) - Just lets me push a button with my hand, I don't have to use a laser pointer. Floor scale.
 - [Half-Life: Alyx](https://www.half-life.com/en/alyx) - Hands to communicate role play.
 - [Broken Edge](https://fasttravelgames.com/games/brokenedge) - Core Interaction Emphasis.
-- [Until You Fall](https://untilyoufall.schellgames.com/) - Encourage Movement. Hide teleportation under actions. Aggressive Vignetting.
-- [Museum of Other Realities](https://www.museumor.com/) - Charming teleportation details. Teleport into artwork.
+- [Until You Fall](https://untilyoufall.schellgames.com/). Encourage Movement. Hide teleportation under actions. Aggressive Vignetting.
+- [Trombone Champ: Unflattened](https://www.meta.com/experiences/trombone-champ-unflattened/25085547287757633/) - Kinesthetic. Silly.
 
 ## Other
 - [Mouse Car](https://hdyar.com/blog/posts/mouse-car/) - My 'Ironic Design Execution' project to control your computer mouse like a car. It's Intuitive!
