@@ -58,3 +58,4 @@ Download the [Slides](https://chathamuniversity-my.sharepoint.com/:p:/g/personal
 - [Mouse Car](https://hdyar.com/blog/posts/mouse-car/) - My 'Ironic Design Execution' project to control your computer mouse like a car. It's Intuitive!
 - [Redirected Walking](https://en.wikipedia.org/wiki/Redirected_walking)
 - [Learning to Do Design Thinking for Immersive Experiences](https://www.gdcvault.com/play/1025597/Learning-to-Do-Design-Thinking)
+- [Logitech MX Ink](https://www.logitech.com/en-us/products/vr/mx-ink.html) - VR Stylus for Quest
