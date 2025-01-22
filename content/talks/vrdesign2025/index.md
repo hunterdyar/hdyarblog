@@ -30,21 +30,21 @@ Download the [Slides](https://chathamuniversity-my.sharepoint.com/:p:/g/personal
 - [Game Feel](http://www.game-feel.com/) by Steve Swink
 - [Hamlet on the Holodeck: The Future of Narrative in Cyberspace](https://mitpress.mit.edu/9780262631877/hamlet-on-the-holodeck/) by Janet H. Murray
 - [Creating Augmented and Virtual Realities](https://www.oreilly.com/library/view/creating-augmented-and/9781492044185/) by Erin Pangilinan, Steve Lukas, Vasanth Mohan
-- [The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) by Donald Norman 
+- [The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) by Donald Norman
 
 ## Mentioned Games
 - [Starship Home](https://www.creature.page/starship-home) - Make it Goopy! Make it Magical. Mixed Reality is pretty great for establishing depth cues.
-- [Beat Saber](https://www.beatsaber.com/) - Let Users Choose Color
+- [Beat Saber](https://www.beatsaber.com/) - Let Users Choose Color.
 - [Tetris Effect](https://en.wikipedia.org/wiki/Tetris_Effect) - Periphery and Design of output over design of input. My favorite VR Game.
 - [Nock](https://nock.game/) - Core Interaction Emphasis. Menu is Gameplay.
 - [Rumble](https://store.steampowered.com/app/890550/RUMBLE/) ([Quest](https://www.meta.com/experiences/pcvr/rumble/2083635558323899/)) - Diagetic Menu. Constrianed Tangible Interfaces. Pose and Feel.
 - [Vacation Simulator](https://vacationsimulatorgame.com/) - Zone based Teleportation, adjustable height tables.
 - Honestly check out all of [Owlchemy Labs games](https://owlchemylabs.com/games), they might be the best at [accessibility considerations](https://owlchemylabs.com/blog/how-we-incorporate-accessibility-in-development) and VR Design.
-- [Cubism VR](https://www.cubism-vr.com/) - Subtle Depth Cues in Void
+- [Cubism VR](https://www.cubism-vr.com/) - Subtle Depth Cues in Void.
 - [Laserdance](https://www.youtube.com/watch?v=0UowL5cjhaI) - Not out yet but... cmon. Design for Kinesthetics!
 - [Moss](https://www.polyarcgames.com/games/moss) and [Moss 2](https://www.polyarcgames.com/) - Abundant depth cues. Diorama scale. Outputs over novel inputs.
 - [Tea For God](https://void-room.itch.io/tea-for-god) ([Release Press](https://www.uploadvr.com/tea-for-god-full-release/)) - Incredible redirected walking/non-euclidean spaces for locomotion. 
-- [The Lab](https://store.steampowered.com/app/450390/The_Lab/) - Valve's design experiments. Various interesting design ideas
+- [The Lab](https://store.steampowered.com/app/450390/The_Lab/) - Valve's design experiments. Various interesting design ideas.
 - [CoasterMania](https://www.coastermaniavr.com/) - Floor scale. Just show the controls on the controller.
 - [Bam](https://i-illusions.com/games/bam) - Controls on the controller. Diorama scale.
 - [Puzzling Palces](https://puzzlingplaces.ghost.io/) - I made fun of it for showing a flat image of a controller in VR, but it's a really great game!
@@ -52,7 +52,7 @@ Download the [Slides](https://chathamuniversity-my.sharepoint.com/:p:/g/personal
 - [Half-Life: Alyx](https://www.half-life.com/en/alyx) - Hands to communicate role play.
 - [Broken Edge](https://fasttravelgames.com/games/brokenedge) - Core Interaction Emphasis.
 - [Until You Fall](https://untilyoufall.schellgames.com/). Encourage Movement. Hide teleportation under actions. Aggressive Vignetting.
-- [Trombone Champ: Unflattened](https://www.meta.com/experiences/trombone-champ-unflattened/25085547287757633/) - Kinesthetic. Silly.
+- [Trombone Champ: Unflattened](https://www.meta.com/experiences/trombone-champ-unflattened/25085547287757633/) - Kinesthetic. Silly. Dust Motes.
 
 ## Other
 - [Mouse Car](https://hdyar.com/blog/posts/mouse-car/) - My 'Ironic Design Execution' project to control your computer mouse like a car. It's Intuitive!
