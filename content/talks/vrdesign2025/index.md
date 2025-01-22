@@ -4,7 +4,7 @@ title: "A Crash Course in Designing for Virtual Reality: Why Laser Pointers Suck
 # A Crash Course in Designing for Virtual Reality. Or Why Laser Pointers Suck and We Can Do Better
 [Super MAGFest 2025](https://super.magfest.org/) - [Schedule Page](https://builder.guidebook.com/g/#/guides/magfest2025/schedule/sessions/30811056)
 
-Download the Slides or pdf with speaker notes. *Coming Soon*.
+Download the Slides or [pdf](./Introduction to Design for VR Magfest 2025.pdf).
 
 ## Follow up and Further Reading
 
@@ -30,7 +30,8 @@ Download the Slides or pdf with speaker notes. *Coming Soon*.
 - [Game Feel](http://www.game-feel.com/) by Steve Swink
 - [Hamlet on the Holodeck: The Future of Narrative in Cyberspace](https://mitpress.mit.edu/9780262631877/hamlet-on-the-holodeck/) by Janet H. Murray
 - [Creating Augmented and Virtual Realities](https://www.oreilly.com/library/view/creating-augmented-and/9781492044185/) by Erin Pangilinan, Steve Lukas, Vasanth Mohan
-- [The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/)) by Donald Norman 
+- [The Design of Everyday Things](https://www.nngroup.com/books/design-everyday-things-revised/) by Donald Norman 
+
 ## Mentioned Games
 - [Starship Home](https://www.creature.page/starship-home) - Make it Goopy! Make it Magical. Mixed Reality is pretty great for establishing depth cues.
 - [Beat Saber](https://www.beatsaber.com/) - Let Users Choose Color
@@ -50,7 +51,8 @@ Download the Slides or pdf with speaker notes. *Coming Soon*.
 - [Little Cities](https://www.meta.com/experiences/little-cities/4988470131168299/) - Just lets me push a button with my hand, I don't have to use a laser pointer. Floor scale.
 - [Half-Life: Alyx](https://www.half-life.com/en/alyx) - Hands to communicate role play.
 - [Broken Edge](https://fasttravelgames.com/games/brokenedge) - Core Interaction Emphasis.
-- [Until You Fall](https://untilyoufall.schellgames.com/). Encourage Movement. Hide teleportation under actions. Aggressive Vignetting.
+- [Until You Fall](https://untilyoufall.schellgames.com/) - Encourage Movement. Hide teleportation under actions. Aggressive Vignetting.
+- [Museum of Other Realities](https://www.museumor.com/) - Charming teleportation details. Teleport into artwork.
 
 ## Other
 - [Mouse Car](https://hdyar.com/blog/posts/mouse-car/) - My 'Ironic Design Execution' project to control your computer mouse like a car. It's Intuitive!
