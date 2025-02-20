@@ -1,7 +1,7 @@
 ---
 title: My Favorite Programming Challenges for the Classroom
 date: 2025-02-20
-draft: true
+draft: false
 ---
 
 When teaching programming, I use a hybrid-flipped approach. I use video and "remote lecture" activities (flipped-classroom) purely as a way to prioritize the time I spent watching students program in the classroom.
@@ -36,7 +36,7 @@ I highly recommend you try something similar in your classrooms. I have noticed 
 
 I give them a handful of scripts to choose from. I only say they can't use the same as someone they are sitting next to, and otherwise I am letting students self-select into different difficulty levels.
 
-# Make The Errors On Purpose
+# Can You Create These Errors? (...On Purpose)
 
 The next challenge is to help them develop a better understanding of common error messages. The challenge is simple: Write code that (on purpose! Gasp!) produces certain error messages.
 They then screenshot the error from their console and paste it back into the Word document. I just look at it during class (Ungraded, I don't give quizzes or tests), but it could be a submitted assignment.
@@ -46,17 +46,19 @@ This has been an extremely effective "moment it clicks" for my students, in term
 
 > I often hear "It's mad at me..." when they talk about errors. "No!" I interject. "It's not mad. It's only asking for help!"
 
+A hint I need to give is: "Most of these are almost working. Start with a working script, then go for one error at a time."
+
 ### Example
 For C# (and Unity), my current set of errors for them to recreate are the following:
 
-1. error CS0103: The name ‘SuperDuper' does not exist in the current context
-2.	error CS1002: ; expected
-3.	error CS1513: } expected
-4.	error CS1547: Keyword 'void' cannot be used in this context
-5.	error CS0266: Cannot implicitly convert type 'float' to 'int'. An explicit conversion exists (are you missing a cast?)
-6.	error CS0664: Literal of type double cannot be implicitly converted to type 'float'; use an 'F' suffix to create a literal of this type
-7.	error CS1503: Argument 1: cannot convert from 'string' to 'int'
-8.	error CS8803: Top-level statements must precede namespace and type declarations.
-9.	error CS1501: No overload for method 'Dance' takes 3 arguments
-10.	error CS7036: There is no argument given that corresponds to the required formal parameter 'a' of 'InClassChallenge.Dance(int)' (Highlighted parts doesn’t need to match)
-11.	NullReferenceException: Object reference not set to an instance of an object
+1. error CS1002: ; expected
+2. error CS1513: } expected
+3. error CS1547: Keyword 'void' cannot be used in this context
+4. error CS0266: Cannot implicitly convert type 'float' to 'int'. An explicit conversion exists (are you missing a cast?)
+5. error CS0664: Literal of type double cannot be implicitly converted to type 'float'; use an 'F' suffix to create a literal of this type
+6. error CS1503: Argument 1: cannot convert from 'string' to 'int'
+7. error CS8803: Top-level statements must precede namespace and type declarations.
+8. error CS1501: No overload for method 'Dance' takes 3 arguments
+9. error CS0103: The name ‘SuperDuper' does not exist in the current context
+10. error CS7036: There is no argument given that corresponds to the required formal parameter 'a' of 'InClassChallenge.Dance(int)' (Highlighted parts doesn’t need to match)
+11. NullReferenceException: Object reference not set to an instance of an object
