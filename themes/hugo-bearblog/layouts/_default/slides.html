@@ -20,7 +20,7 @@
   <div class="slideimage">
     {{ $path := .Params.image }}
     {{ with $this.Resources.Get $path}}
-    <img src="{{ .RelPermalink }}"  alt="">
+    <img src="{{ .Permalink }}"  alt="">
     {{ end }}
   </div>
     <div class="slidetext">
