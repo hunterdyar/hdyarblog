@@ -1,0 +1,46 @@
+{{ define "main" }}
+{{ if eq .Type "blog" }}{{ if not .Params.menu }}
+
+<h1>{{ .Title }}</h1>
+
+{{ end }}{{ end }}
+
+
+<content>
+  {{ .Content }}
+</content>
+
+{{ $this := . }}
+
+<hr />
+
+<section class="slides">
+  {{ range sort .Pages }}
+  {{ $page := . }}
+  <div class="slideimage">
+    {{ $path := .Params.image }}
+    {{ with $this.Resources.Get $path}}
+    <img src="{{ .RelPermalink }}"  alt="">
+    {{ end }}
+  </div>
+    <div class="slidetext">
+    {{ .Content }}
+  </div>
+
+  </div>
+  {{ else }}
+  {{ end }}
+</section>
+
+
+<hr />
+{{ if .Params.date}}
+<p>
+  <i>
+    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+      {{ .Date.Format (default "Jan, 2006" .Site.Params.dateFormat) }}
+    </time>
+  </i>
+</p>
+{{ end }}
+{{ end }}
