@@ -6,6 +6,11 @@ title: "A Crash Course in Designing for Virtual Reality: Why Laser Pointers Suck
 
 Download the [Slides](https://chathamuniversity-my.sharepoint.com/:p:/g/personal/h_dyar_chatham_edu/Ec6wTVuPUvVEmb-K8BK0i6YB5hTQzsS6WVkB629Oz4G4sw?e=adYn4j) or [pdf](./Introduction%20to%20Design%20for%20VR%20Magfest%202025.pdf).
 
+## Talk Recording
+
+{{< youtube nWO0_Uq0-5E >}}
+
+
 ## Follow up and Further Reading
 
 ### Articles
