@@ -22,6 +22,12 @@ layout: single
 <iframe frameborder="0" src="https://itch.io/embed/2470877" width="552" height="167"><a href="https://blooper.itch.io/zoomy-cat">Zoomy Cat! by Hunter Dyar</a></iframe>
 {{< /rawhtml >}}
 
+## Swadge
+The Swadge is an ESP32 powered 'Badge' at the [MAGFest](https://www.magfest.org/) Music and Gaming Festival. The hardware and software for it is [open source](https://github.com/AEFeinstein/Super-2024-Swadge-FW).
+In addition to contributing to general design and development, I have been the primary developer of two games.
+- [Pi-Cross](https://swadge.com/super2023/) - MAGFest Swadge 2023 ([Instructions](https://swadge.com/super2023/picross/)).
+- [Hunter's Puzzles](https://swadge.com/super2025/) - MAGFest Swadge 2025 (See page 60 of the [MAGFest Power Zine](https://swadge.com/wp-content/uploads/2025/02/MAGFestPower-MAG_zine-Volume-2-January-2025-Digital-Edition-Final.pdf)). 
+
 ## Games - Freelance
 - *A few projects I have worked on are under an NDA.*
 - **Presidents Cup 2022** - Contract development for the Software Engineering Institute. Multiplayer Unity Development using WebGL & Mirror, for the large [President's Cup](https://youtu.be/7-chaYzLmZg) cybersecurity competition.
