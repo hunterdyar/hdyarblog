@@ -6,6 +6,9 @@ layout: single
 
 ## Personal Games
 
+**[Mavis Vs. The Devil](https://github.com/hunterdyar/MavisVsTheDevil)**
+Installed in an art gallery during the 2025 faculty showcase at Chatham University.
+
 {{< rawhtml >}}
 <iframe src="https://itch.io/embed/265003?linkback=true&amp;dark=true" width="552" height="167" frameborder="0"><a href="https://blooper.itch.io/shadowbright">Shadowbright by Hunter Dyar</a></iframe>
 {{< /rawhtml >}}

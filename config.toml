@@ -26,6 +26,12 @@ name = 'Talks'
 url = '/talks/'
 weight = -120
 
+[[menu.main]]
+identifier = 'design'
+name = 'Design'
+url = '/design/'
+weight = -105
+
 # Basic metadata configuration for your blog.
 author = "Hunter Dyar"
 copyright = "Copyright © 2025, Hugh Dyar IV."

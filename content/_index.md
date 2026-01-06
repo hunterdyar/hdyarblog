@@ -9,11 +9,13 @@ I am an Assistant Professor of Immersive Media at Chatham University. I teach co
 
 Much of my work these days is in creating open educational resources.
 - [The Guidebook](https://guidebook.hdyar.com) - Unity/Digital Media Learning Articles/Videos.
-- [GitHub](https://github.com/hunterdyar) - Various projects/source.
 - [How To Not Drop A Camera](http://howtonotdropacamera.com) - Teach yourself photography.
 - [YouTube](youtube.com/hunterdyar) - Videos I've made for the guidebook or for classes.
+- [Explainers](https://explainers.hdyar.com) - Interactive articles and tools explaining various media concepts.
 
-Feel free to reach out. My email is me@hdyar.com. I am on [Mastodon](https://mastodon.gamedev.place/@hdyar), [Twitter](http://twitter.com/hdyar), and [Instagram](https://instagram.com/notdroppingcameras).
+My academic work is largely project-driven. Be that [games]({{<ref "./games/_index.md" >}}) or speculative [design research]({{<ref "./design/_index.md" >}}) through prototyping. Almost all of these projects are open source on [GitHub](https://github.com/hunterdyar).
+
+Feel free to reach out. My email is me@hdyar.com. I am on [Mastodon](https://mastodon.gamedev.place/@hdyar), [Bluesky](https://bsky.app/profile/hdyar.com), and [Instagram](https://instagram.com/notdroppingcameras).
 
 ---
 
