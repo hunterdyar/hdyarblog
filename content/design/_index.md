@@ -21,7 +21,7 @@ Numerous projects are built around visualization of complex systems by recreatin
 - [Mouse Car]({{<ref "../blog/posts/mouse-car.md" >}}) - A satirical response to "But everyone understands it!" as a defense of certain UX patterns.
 - [Trashly Lang](https://github.com/hunterdyar/trashly-lang) - Silly programming language. Among other amusingly terrible decisions, it uses 'xX' for '{' and 'Xx' for '}'.
 
-## Visualization and Simulation
+## Simulation As Visualization
 - [Slow Human Interpreter](https://slowhumaninterpreter.hdyar.com/) - Learn how computers/programming languages work by *performing* how computers work on a printed set of instructions, laboriously.
 - [LilPuterSim](https://github.com/hunterdyar/LilPuterSim) - WIP Visual simulation of a computer, lets one keep 'zooming in' through the layers of abstraction, from code to NAND gates, of a fully simulated computer.
 - [B- Lang](https://bminus.hdyar.com/) - B- is an implementation of the B programming language, with an exposed interpreter encouraging examination and exploration. It runs locally in the browser.
