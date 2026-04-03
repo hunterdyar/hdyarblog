@@ -1,0 +1,6 @@
+---
+image: "images/Slide42.jpg"
+---
+But you can also just do pass-through to get a lot of great depth cues for free...
+
+I think the world is missing more VR storytelling not in environments, but in dollhouses and dioramas that float in front of me that I peer into? I want to do an agatha christie story in a dollhouse scaled environment that you spin around. Sorry, anyway...
