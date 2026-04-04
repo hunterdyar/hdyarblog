@@ -1,5 +1,5 @@
 ---
-title: "A Crash Course in Designing for Virtual Reality: Why Laser Pointers Suck and We Can Do Better"
+title: "The Fundamentals of Virtual Reality Storytelling"
 layout: slides
 ---
 # The Fundamentals of VR Storytelling
