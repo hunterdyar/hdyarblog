@@ -7,4 +7,4 @@ layout: slides
 
 Download the slides as a [PDF](./files/The%20Fundamentals%20of%20Storytelling%20for%20Virtual%20Reality.pdf) and [PowerPoint](https://chathamuniversity-my.sharepoint.com/:p:/g/personal/h_dyar_chatham_edu/IQAYm9SYTPRZQat8LQ_8-yFeAe7Osjv4cmuu520uDfw1f8g?e=v5OsmL).
 
-
+![Myself talking with a guest after the talk](./cover.jpg)
