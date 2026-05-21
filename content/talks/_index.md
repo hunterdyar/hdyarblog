@@ -9,6 +9,8 @@ layout: single
 
 # Panels
 - On Immersive Pedagogies at SONA 2026
+- [The Explosive Intersection of VR & AI](https://www.youtube.com/watch?v=FltvMin37Zg) at MAGFest 2026
+- [The State of Virtual Reality 2026 and Beyond](https://www.youtube.com/watch?v=K9iuq6RVEXo) at MAGFest 2026
 - [The State of Virtual Reality 2025 and Beyond](https://www.youtube.com/watch?v=deYDljcHwh8) at MAGFest 2025
 - [VR in Education and Training](https://youtu.be/s5OslNPuVTQ?feature=shared) at MAGFest 2025
 - [VR in Education and Training](https://hdyar.com/blog/posts/vr-in-education-talk/) at MAGFest 2024
