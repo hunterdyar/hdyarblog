@@ -81,9 +81,9 @@ Easing Functions should be included in languages/core libraries. Doing Native "e
 # So is the language good?
 Uh. Well... Nehh?? It's nothing special.
 
-I went for a LISP-ey *(parenthesis before the function name, not after)* scripting language. With some ideas about using the delimiters for a sort of type-sugar thing. [a b] would be shorthand for (list a b) and ~a~ would be shorthand for (cast-to-bool a), something like that.
+I went for a LISP-ey *(parenthesis before the function name, not after)* scripting language. With some ideas about using the delimiters for a sort of type-sugar thing. `[a b]` would be shorthand for `(list a b)` and `~a~` would be shorthand for (cast-to-bool a), something like that.
 
-Anyway, only {func-name func} for (declare func-name (func)) happened. 
+Anyway, only `{func-name func}` for `(declare func-name (func))` happened. 
 
 Would it be neat? No clue. The language syntax was fine. a LISP-like with some sugar; very easy to work with.
 
