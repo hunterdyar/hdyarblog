@@ -17,7 +17,7 @@ Numerous projects are built around visualization of complex systems by recreatin
 - [Scrub](https://github.com/hunterdyar/scrub-lang) - A reversable programming language, created to consider 'What does a programming language for students look like?' if empowered by time-travel debugging. Abandonded.
 - [64BOL](https://github.com/hunterdyar/64bitsofloving) - A WIP esolang for bit twiddling. A typeless language restricted to 64 bits of usable memory, built for students.
 
-## Satirical  Desgin
+## Satirical  Design
 - [Mouse Car]({{<ref "../blog/posts/mouse-car.md" >}}) - A satirical response to "But everyone understands it!" as a defense of certain UX patterns.
 - [Trashly Lang](https://github.com/hunterdyar/trashly-lang) - Silly programming language. Among other amusingly terrible decisions, it uses 'xX' for '{' and 'Xx' for '}'.
 
