@@ -3,6 +3,7 @@ title: Talks
 layout: single
 ---
 # Talks
+- A Little Play Goes A Long Way: Teaching with Micro Games, Tiny Widgets, and Little Fidgets at Meaningful Play 2026
 - [The Fundamentals of VR Storytelling]({{< ref "./sona2026/index.md" >}}) at SONA 2026
 - [A Crash Course in Designing for Virtual Reality: Why Laser Pointers Suck and We Can Do Better]({{< ref "./vrdesign2025/index.md" >}}) at MAGFest 2025
 - [A New Strategy for Open-Ended Long Term Creative Projects with A La Cart Rubrics]({{<ref "./alacartrubrics/_index.md" >}}) lightning talk at the Innovation in Teaching and Learning Conference, Missouri S&T
